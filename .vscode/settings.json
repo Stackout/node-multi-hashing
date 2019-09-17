@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "stdint.h": "c"
+        "stdint.h": "c",
+        "sph_tiger.h": "c",
+        "sph_simd.h": "c",
+        "sph_blake.h": "c"
     }
 }
